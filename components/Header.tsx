@@ -124,7 +124,7 @@ const Header = () => {
               </Button>
             </TooltipTrigger>
             <TooltipContent side="top">
-              <p>Alerts</p>
+              <p>Snipe Settings</p>
             </TooltipContent>
           </Tooltip>
         </span>
